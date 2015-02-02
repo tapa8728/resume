@@ -1,0 +1,22 @@
+[{
+	"name": "Mr. Ajay P",
+	"cell": "+91 9833558105",
+	"email": "ajay.p@lnt.cc.in",
+	"role": "Larsen & Toubro Infotech-Tech Lead"
+	
+}, {
+	"name": "Mr. Anupam Dey",
+	"cell": "+91 9856895689",
+	"email": "anu.dey@capgmemini.com",
+	"role": "Capgemini GE Lead"
+}, {
+	"name": "Mr. Sagar Vora",
+	"cell": "+91 9855225589",
+	"email": "sagarvora@gmail.com",
+	"role": "Cepgemini Source Operator"
+}, {
+	"name": "Prof. Shiv Mishra",
+	"cell": "+1(720)-898-7532",
+	"email": "smishra@hotmail.in",
+	"role": "University of Colorado Boulder Professor"
+}]
