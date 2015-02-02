@@ -1,0 +1,14 @@
+[
+{
+	"college": "Mumbai University",
+	"degree": "Computer Engineering",
+    	"gpa": "3.89/4.00",
+	"duration": "August 2009 to May 2013"
+	},
+{
+	"college": "University of Colorado Boulder",
+	"degree": "Masters in Computer Science",
+    	"gpa": "3.6/4.00",
+	"duration": "Fall 2014 to Summer 2016"
+	}
+]
