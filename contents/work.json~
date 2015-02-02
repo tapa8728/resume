@@ -1,0 +1,13 @@
+[{
+	"image": "lnt.jpg",
+	"position": "Software Development Intern",
+	"company": "Larsen & Toubro Infotech India",
+	"years": "June-July 2012",
+	"description": "-Tested Intranet Website  and eliminated 20 percent of design errors \n -Programmed in ASP.net to reduce design time for one part from 3 hours to 30 minutes \n -•Gained exposure to dealing with deadlines, reports, meetings and demonstration to the technical panel."
+}, {
+	"image": "capgemini.jpg",	
+	"position": "Software Engineer",
+	"company": "Capgemini Consulting",
+	"years": "November 2013-July 2014",
+	"description": "Worked for General Electric using Enovia (Dassault Systems) in Product Lifecycle Management using Iterative SDLC and significantly reduced design time \n -Trained two junior consultants to test & develop software and reduced rework and design problems on prototype. \n -Worked for General Electric as Advanced Java Developer for tweaking Aviation System Software and decreased product development costs 25-30 % on average. \n -Worked for Vistaar as a Data Analyst by doing multi-dimensional data modelling using IBM Cognos TM1 Software and shortened client decision-making process"
+}]
